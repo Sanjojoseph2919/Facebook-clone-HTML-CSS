@@ -1,2 +1,2 @@
-# Facebook-colon-HTML-CSS
-Facebook-colon
+# Facebook-clone-HTML-CSS
+Facebook-clone
