@@ -1,0 +1,109 @@
+.header{
+    background: #3b5998;
+    width: 100%;
+    height: 85px;
+    
+}
+body{
+    margin: 0;
+    font-family: Helvetica, Arial, sans-serif;
+}
+.logo{
+    width: 50%;
+    padding-top: 32PX;
+    float: left;
+
+}
+.login{
+    width: 50%;
+    float: left;
+}
+.logo-text{
+    color: #fff;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica, Arial, sans-serif;
+    margin-left: 170px;
+}
+.login-label{
+    color: #fff;
+    font-size: 10px;
+}
+.login-controls{
+    margin-left: 115px;
+
+}
+.login{
+    padding-top: 10px;
+}
+.forgotten{
+    color: #9cb4d9;
+    font-size: 11px;
+    text-decoration:none;
+}
+.sub-btn{
+    background-color: #4267b2;
+    color: #fff;
+    height: 20px;
+    border-color: #29487d;
+    cursor: pointer;
+}
+.sub-btn:hover{
+    background-color: red;
+}
+.left-section{
+    width: 50%;
+    float: left; 
+    padding-left: 134px;
+    padding-top: 52px;
+}
+.right-section{
+    width: 41%;
+    float: right; 
+       
+}
+.main-body{
+    background: linear-gradient(white,#d3d8e8) ;
+    width: 100%;
+    height: 500px;
+}
+.image{
+    width: 700px;
+
+}
+.para{
+    font-weight: bold;
+    font-size: 21px;
+}
+.first-name{
+    border: 2px solid gray;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    height: 25px;
+    width: 183px;
+    margin-right: 7px
+}
+.surname{
+    border: 2px solid gray;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    height: 25px;
+    width: 183px;
+}
+.mobile-email{
+    border: 2px solid gray;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    height: 25px;
+    width: 384px;
+
+}
+.password{
+    border: 2px solid gray;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    height: 25px;
+    width: 384px;
+
+}
